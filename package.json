@@ -1,5 +1,5 @@
 {
-  "name": "deepfreeze",
+  "name": "yadf",
   "version": "1.0.0",
   "description": "Module allows you to freeze any object to prevent its edition",
   "main": "index.js",
