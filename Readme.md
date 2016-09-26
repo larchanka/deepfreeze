@@ -2,7 +2,7 @@
 
 ## Description
 
-Module allows you to freeze any object to prevent its edition.
+Module allows you to freeze any object to prevent its edition. Based on `Object.freeze`.
 
 ## Usage
 
